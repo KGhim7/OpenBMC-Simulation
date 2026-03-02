@@ -16,7 +16,7 @@ The project is useful for learning daemon-to-daemon communication, event handlin
 - TCP message bus with publish and query (`SENSORS|...`, `GET|ALL`)
 - Event detection with start/clear logging for abnormal conditions
 - Minimal Redfish-style API for system and thermal resources
-- CMake-based build for all daemons
+- CMake-based build for all daemons HELLOOOOOOOOOOO
 
 ---
 
