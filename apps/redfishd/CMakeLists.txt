@@ -1,0 +1,2 @@
+add_executable(redfishd redfishd.cpp)
+target_compile_features(redfishd PRIVATE cxx_std_17)

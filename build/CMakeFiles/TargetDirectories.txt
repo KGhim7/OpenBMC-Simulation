@@ -1,0 +1,16 @@
+/Users/kushal/Documents/MiniSim-BMC/build/CMakeFiles/edit_cache.dir
+/Users/kushal/Documents/MiniSim-BMC/build/CMakeFiles/rebuild_cache.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/CMakeFiles/edit_cache.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/CMakeFiles/rebuild_cache.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/busd/CMakeFiles/busd.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/busd/CMakeFiles/edit_cache.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/busd/CMakeFiles/rebuild_cache.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/sensord/CMakeFiles/sensord.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/sensord/CMakeFiles/edit_cache.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/sensord/CMakeFiles/rebuild_cache.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/eventd/CMakeFiles/eventd.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/eventd/CMakeFiles/edit_cache.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/eventd/CMakeFiles/rebuild_cache.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/redfishd/CMakeFiles/redfishd.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/redfishd/CMakeFiles/edit_cache.dir
+/Users/kushal/Documents/MiniSim-BMC/build/apps/redfishd/CMakeFiles/rebuild_cache.dir

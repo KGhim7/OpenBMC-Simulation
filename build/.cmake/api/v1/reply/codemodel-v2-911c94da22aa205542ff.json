@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-9ad1a58d4644cf6543fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "apps",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-apps-Debug-9d7b8c3059c5c2326a02.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "apps"
+				},
+				{
+					"build" : "apps/busd",
+					"jsonFile" : "directory-apps.busd-Debug-728152ee7fb5545e2389.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "apps/busd",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "apps/sensord",
+					"jsonFile" : "directory-apps.sensord-Debug-66828b6ad71839a30dad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "apps/sensord",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "apps/eventd",
+					"jsonFile" : "directory-apps.eventd-Debug-e1c760087e4b4a79f9bf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "apps/eventd",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "apps/redfishd",
+					"jsonFile" : "directory-apps.redfishd-Debug-d312f87c9f8722bf2909.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "apps/redfishd",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "MiniSimBMC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "busd::@d4afbc89b8299b0ab2aa",
+					"jsonFile" : "target-busd-Debug-2aba756d15ce0041a3ab.json",
+					"name" : "busd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "eventd::@94c25f6392a08b4b8315",
+					"jsonFile" : "target-eventd-Debug-ab8597bde16646872c8b.json",
+					"name" : "eventd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "redfishd::@0e6a415d4f15a519395d",
+					"jsonFile" : "target-redfishd-Debug-28e49391f943c3787c37.json",
+					"name" : "redfishd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "sensord::@c2e71bb9ef3b143936f6",
+					"jsonFile" : "target-sensord-Debug-dd0ea3e615c1e12181f7.json",
+					"name" : "sensord",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kushal/Documents/MiniSim-BMC/build",
+		"source" : "/Users/kushal/Documents/MiniSim-BMC"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

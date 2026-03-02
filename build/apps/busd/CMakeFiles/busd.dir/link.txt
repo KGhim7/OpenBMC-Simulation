@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/busd.dir/main.cpp.o CMakeFiles/busd.dir/tcp_server.cpp.o -o busd

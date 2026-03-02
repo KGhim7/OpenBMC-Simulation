@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sensord.dir/main.cpp.o CMakeFiles/sensord.dir/sensor.cpp.o CMakeFiles/sensord.dir/tcp_client.cpp.o -o sensord

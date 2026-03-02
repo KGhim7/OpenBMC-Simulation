@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/kushal/Documents/MiniSim-BMC/build/cmake_install.cmake",
+		"/Users/kushal/Documents/MiniSim-BMC/build/apps/cmake_install.cmake",
+		"/Users/kushal/Documents/MiniSim-BMC/build/apps/busd/cmake_install.cmake",
+		"/Users/kushal/Documents/MiniSim-BMC/build/apps/sensord/cmake_install.cmake",
+		"/Users/kushal/Documents/MiniSim-BMC/build/apps/eventd/cmake_install.cmake",
+		"/Users/kushal/Documents/MiniSim-BMC/build/apps/redfishd/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

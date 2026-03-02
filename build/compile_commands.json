@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/kushal/Documents/MiniSim-BMC/build/apps/busd",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/busd.dir/main.cpp.o -c /Users/kushal/Documents/MiniSim-BMC/apps/busd/main.cpp",
+  "file": "/Users/kushal/Documents/MiniSim-BMC/apps/busd/main.cpp",
+  "output": "apps/busd/CMakeFiles/busd.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/kushal/Documents/MiniSim-BMC/build/apps/busd",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/busd.dir/tcp_server.cpp.o -c /Users/kushal/Documents/MiniSim-BMC/apps/busd/tcp_server.cpp",
+  "file": "/Users/kushal/Documents/MiniSim-BMC/apps/busd/tcp_server.cpp",
+  "output": "apps/busd/CMakeFiles/busd.dir/tcp_server.cpp.o"
+},
+{
+  "directory": "/Users/kushal/Documents/MiniSim-BMC/build/apps/sensord",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/sensord.dir/main.cpp.o -c /Users/kushal/Documents/MiniSim-BMC/apps/sensord/main.cpp",
+  "file": "/Users/kushal/Documents/MiniSim-BMC/apps/sensord/main.cpp",
+  "output": "apps/sensord/CMakeFiles/sensord.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/kushal/Documents/MiniSim-BMC/build/apps/sensord",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/sensord.dir/sensor.cpp.o -c /Users/kushal/Documents/MiniSim-BMC/apps/sensord/sensor.cpp",
+  "file": "/Users/kushal/Documents/MiniSim-BMC/apps/sensord/sensor.cpp",
+  "output": "apps/sensord/CMakeFiles/sensord.dir/sensor.cpp.o"
+},
+{
+  "directory": "/Users/kushal/Documents/MiniSim-BMC/build/apps/sensord",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/sensord.dir/tcp_client.cpp.o -c /Users/kushal/Documents/MiniSim-BMC/apps/sensord/tcp_client.cpp",
+  "file": "/Users/kushal/Documents/MiniSim-BMC/apps/sensord/tcp_client.cpp",
+  "output": "apps/sensord/CMakeFiles/sensord.dir/tcp_client.cpp.o"
+},
+{
+  "directory": "/Users/kushal/Documents/MiniSim-BMC/build/apps/eventd",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/eventd.dir/main.cpp.o -c /Users/kushal/Documents/MiniSim-BMC/apps/eventd/main.cpp",
+  "file": "/Users/kushal/Documents/MiniSim-BMC/apps/eventd/main.cpp",
+  "output": "apps/eventd/CMakeFiles/eventd.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/kushal/Documents/MiniSim-BMC/build/apps/eventd",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/eventd.dir/eventd.cpp.o -c /Users/kushal/Documents/MiniSim-BMC/apps/eventd/eventd.cpp",
+  "file": "/Users/kushal/Documents/MiniSim-BMC/apps/eventd/eventd.cpp",
+  "output": "apps/eventd/CMakeFiles/eventd.dir/eventd.cpp.o"
+},
+{
+  "directory": "/Users/kushal/Documents/MiniSim-BMC/build/apps/redfishd",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/redfishd.dir/redfishd.cpp.o -c /Users/kushal/Documents/MiniSim-BMC/apps/redfishd/redfishd.cpp",
+  "file": "/Users/kushal/Documents/MiniSim-BMC/apps/redfishd/redfishd.cpp",
+  "output": "apps/redfishd/CMakeFiles/redfishd.dir/redfishd.cpp.o"
+}
+]
